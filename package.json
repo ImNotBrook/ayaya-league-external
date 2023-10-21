@@ -22,7 +22,7 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@electron/remote": "^2.0.8",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "mathjs": "^11.1.0",
     "node-addon-api": "^5.0.0",
     "node-fetch": "^2.6.1",
@@ -32,9 +32,9 @@
     "@types/node": "^18.7.13",
     "@types/node-fetch": "^2.6.2",
     "@types/sat": "^0.0.31",
-    "electron": "^20.0.1",
-    "electron-builder": "^23.3.3",
-    "electron-packager": "^15.5.1",
+    "electron": "^27.0.2",
+    "electron-builder": "^24.6.4",
+    "electron-packager": "^17.1.2",
     "node-gyp": "^9.1.0"
   }
 }
